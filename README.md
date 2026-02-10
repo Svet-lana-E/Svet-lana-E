@@ -1,6 +1,6 @@
 ## Hi there, I'm Sveta 👋
 
-I'm a frontend-developer.
+I am a frontend-developer looking for an opportunity to become part of an experienced team creating high-quality IT products.
   
 📫 How to reach me: [<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/a7afc77e-489b-49d9-ae23-f9c99749d6d4" />][1] [<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/c6157bec-3278-4d1f-a34b-c4a1ab6631bb" />][2] [<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/9850f935-d6e1-4817-a736-dad7cf2986ae" />
 ][3]
